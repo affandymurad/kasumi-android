@@ -2,7 +2,6 @@ package am.jp.kasumi.model
 
 import com.google.gson.annotations.SerializedName
 import java.io.Serializable
-import java.util.*
 
 data class MoviesDetailResponse(
     @SerializedName("adult")
@@ -127,6 +126,9 @@ data class Language(
 data class VideoResponse(
     @SerializedName("results")
     var results: List<Videos> ?= null) : Serializable
+
+data class Genre(val id: Int,
+                 val name: String) : Serializable
 
 data class Videos(
     @SerializedName("id")
