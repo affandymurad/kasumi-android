@@ -11,16 +11,17 @@ Mini Project of Kasumi video list. Allow you to open YouTube trailer without Net
 *App Details*
 ![](doc/android.gif)
 
+
 *App Icon*
-![](doc/android1.gif)
+![](doc/android1.jpg)
 
 *Movie List*
-![](doc/android2.gif)
+![](doc/android2.jpg)
 
 *Movie Detail*
-![](doc/android3.gif)
+![](doc/android3.jpg)
 
 *YouTube player*
-![](doc/android4.gif)
+![](doc/android4.jpg)
 
 

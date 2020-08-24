@@ -20,7 +20,7 @@ import retrofit2.http.QueryMap
 
 object RetrofitRepository : Repository {
 
-    const val token = "f002c90cf2d54e6b83801cbe9408e82b"
+    const val token = ""
     const val baseURL = "https://api.themoviedb.org/3/"
     const val baseImage = "http://image.tmdb.org/t/p/w500"
 
