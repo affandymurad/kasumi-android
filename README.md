@@ -9,9 +9,10 @@ Mini Project of Kasumi video list. Allow you to open YouTube trailer without Net
 #### Screenshots
 
 *App Details*
-<img src="https://raw.githubusercontent.com/affandymurad/kasumi-android/master/doc/android.gif" width="200" height="400">
-
 <br/>
+<img src="https://raw.githubusercontent.com/affandymurad/kasumi-android/master/doc/android.gif" width="200" height="400">
+<br/>
+
 *App Icon*
 ![](doc/android1.jpg){:height="200px" width="150px"}
 
